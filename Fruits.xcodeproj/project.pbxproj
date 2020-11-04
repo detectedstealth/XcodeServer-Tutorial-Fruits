@@ -508,7 +508,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "Fruits/Preview\\ Content";
-				DEVELOPMENT_TEAM = A9WFR3T443;
+				DEVELOPMENT_TEAM = 3CVGPR3BZV;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Fruits/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
@@ -517,7 +517,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.raywenderlich.Fruits;
+				PRODUCT_BUNDLE_IDENTIFIER = com.warplydesigned.Fruits;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -531,7 +531,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "Fruits/Preview\\ Content";
-				DEVELOPMENT_TEAM = A9WFR3T443;
+				DEVELOPMENT_TEAM = 3CVGPR3BZV;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Fruits/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
@@ -540,7 +540,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.raywenderlich.Fruits;
+				PRODUCT_BUNDLE_IDENTIFIER = com.warplydesigned.Fruits;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -552,7 +552,7 @@
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FEPLPEL798;
+				DEVELOPMENT_TEAM = 3CVGPR3BZV;
 				INFOPLIST_FILE = FruitsUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -560,7 +560,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.adrapps.FruitsUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.warplydesigned.FruitsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -573,7 +573,7 @@
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FEPLPEL798;
+				DEVELOPMENT_TEAM = 3CVGPR3BZV;
 				INFOPLIST_FILE = FruitsUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -581,7 +581,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.adrapps.FruitsUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.warplydesigned.FruitsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -595,7 +595,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FEPLPEL798;
+				DEVELOPMENT_TEAM = 3CVGPR3BZV;
 				INFOPLIST_FILE = FruitsTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -603,7 +603,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.adrapps.FruitsTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.warplydesigned.FruitsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -617,7 +617,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FEPLPEL798;
+				DEVELOPMENT_TEAM = 3CVGPR3BZV;
 				INFOPLIST_FILE = FruitsTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -625,7 +625,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.adrapps.FruitsTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.warplydesigned.FruitsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
